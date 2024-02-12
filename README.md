@@ -16,6 +16,13 @@ KEY FEATURES:
 
 TECHNOLOGIES & TOOLS USED
 
+1. Flutter
+2. Dart
+3. FCM
+4. Youtube Data API
+5. Youtube Comments API
+
+
 SCREENSHOTS
 
 <img src = "1.png" width ="250" /> <img src = "2.png" width ="250" /> <img src = "3.png" width ="250" /> <img src = "4.png" width ="250" /> <img src = "5.png" width ="250" /> <img src = "6.png" width ="250" /> <img src = "7.png" width ="250" /> <img src = "8.png" width ="250" /> <img src = "9.png" width ="250" /> <img src = "10.png" width ="250" /> <img src = "11.png" width ="250" /> <img src = "12.png" width ="250" /> <img src = "13.png" width ="250" /> <img src = "14.png" width ="250" /> <img src = "15.png" width ="250" /> <img src = "16.png" width ="250" /> <img src = "17.png" width ="250" /> <img src = "18.png" width ="250" /> <img src = "19.png" width ="250" /> <img src = "20.png" width ="250" /> 
