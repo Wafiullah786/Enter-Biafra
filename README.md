@@ -1,5 +1,5 @@
 # Enter-Biafra
-<img src = "21.png" width ="250" /> <img src = "22.png" width ="250" /> 
+<img src = "21.png" width ="380" /> 
 
 
 
