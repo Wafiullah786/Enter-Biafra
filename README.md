@@ -1,5 +1,5 @@
 # Enter-Biafra
-![20](https://github.com/Wafiullah786/Enter-Biafra/assets/130735471/4de015c4-7ff8-4651-971c-122246361851)
+<img src = "21.png" width ="250" /> <img src = "22.png" width ="250" /> 
 
 
 
