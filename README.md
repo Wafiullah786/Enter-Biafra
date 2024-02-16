@@ -1,8 +1,4 @@
 # Enter-Biafra
-<img src = "21.png" width ="380" /> 
-
-
-
 INTRODUCTION
 
 Enter Biafra is a freedom awareness application. Enter Biafra has a daily program that aims to enlighten, educate and inform Biafrans both in Biafra land and those all around the world. It is a channel that spreads information about the right to self-determination of Biafrans.
